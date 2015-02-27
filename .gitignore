@@ -1,0 +1,5 @@
+.idea
+__pycache__
+db.sqlite3
+walls/__pycache__
+webwalls/__pycache__
